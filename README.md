@@ -8,3 +8,6 @@ Team:
 1-Amel
 2-Mohammad
 3-Yaseen
+
+Competition link:
+https://www.kaggle.com/competitions/nlp-getting-started
